@@ -1,0 +1,35 @@
+﻿
+
+h1 {
+    color: darkmagenta;
+    background-color: lightpink;
+    font-family: 'Curlz MT'
+}
+
+h2 {
+    color: darkmagenta;
+    background-color: lightpink;
+    font-family: 'Century Gothic'
+}
+
+p {
+    color: darkblue;
+    background-color: lavender;
+    font-family: 'Century Gothic'
+}
+
+#bienvenida {
+    color: darkmagenta;
+    background-color: lightpink;
+    font-family: 'Century Gothic'
+}
+input {
+    color: black;
+    background-color: lavender;
+    font-family: 'Century Gothic'
+}
+button {
+    color: black;
+    background-color: lightpink;
+    font-family: 'Century Gothic'
+}
